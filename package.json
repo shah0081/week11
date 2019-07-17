@@ -1,0 +1,14 @@
+{
+  "name": "last",
+  "version": "0.0.0",
+  "description": "last",
+  "main": "Shopping list",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peter",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.7"
+  }
+}
